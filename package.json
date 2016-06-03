@@ -1,0 +1,22 @@
+{
+  "name": "konnektid-mocha-reporter",
+  "version": "0.0.1",
+  "description": "Environment aware Mocha reporter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Konnektid/konnektid-mocha-reporter.git"
+  },
+  "author": "Tijn Kersjes <tijn@konnektid.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Konnektid/konnektid-mocha-reporter/issues"
+  },
+  "homepage": "https://github.com/Konnektid/konnektid-mocha-reporter#readme",
+  "peerDependencies": {
+    "mocha": "^2.0.0"
+  }
+}
